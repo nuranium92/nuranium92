@@ -1,0 +1,21 @@
+<svg width="400" height="80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      .text {
+        font-family: monospace;
+        font-size: 42px;
+        font-weight: bold;
+        fill: none;
+        stroke: #e03030;
+        stroke-width: 2;
+        stroke-dasharray: 600;
+        stroke-dashoffset: 600;
+        animation: draw 3s ease forwards;
+      }
+      @keyframes draw {
+        to { stroke-dashoffset: 0; }
+      }
+    </style>
+  </defs>
+  <text x="20" y="55" class="text">NURANIUM</text>
+</svg>
