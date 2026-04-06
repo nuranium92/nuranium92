@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./header.svg" alt="NURANIUM" />
+<img src="./header1.svg" alt="NURANIUM" />
 
 **AI Engineer & Python Developer**
 
