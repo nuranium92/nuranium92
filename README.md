@@ -10,7 +10,7 @@
 
 ---
 
-*You are one of the 10 people who visit my profile every month.*
+*You are one of the 10B people who visit my profile every month).*
 *Most of them leave. You are still reading.*
 
 ---
